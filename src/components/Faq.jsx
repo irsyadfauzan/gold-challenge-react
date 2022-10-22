@@ -82,7 +82,7 @@ function FaqModule() {
             </AccordionItem>
             <AccordionItem>
               <AccordionHeader targetId="5">
-                Bagaimana jika terjadi kecelakaan
+                Bagaimana jika terjadi kecelakaan harus apa?
               </AccordionHeader>
               <AccordionBody accordionId="5">
                 <strong>This is the third item&#39;s accordion body.</strong>
